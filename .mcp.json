@@ -1,4 +1,4 @@
-json{
+{
   "mcpServers": {
     "google-calendar": {
       "command": "npx",
